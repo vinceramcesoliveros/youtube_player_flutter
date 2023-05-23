@@ -15,7 +15,7 @@
 *.ipr
 *.iws
 .idea/
-
+.fvm/flutter_sdk
 # Visual Studio Code related
 .vscode/
 

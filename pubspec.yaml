@@ -1,0 +1,8 @@
+name: youtube_player_flutter
+
+publish_to: "none"
+
+environment:
+  sdk: '>=2.18.6 <3.0.0'
+dev_dependencies:
+  melos: ^3.0.1

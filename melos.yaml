@@ -3,3 +3,5 @@ repository: https://github.com/sarbagyastha/youtube_player_flutter
 
 packages:
   - packages/**
+
+sdkPath: .fvm/flutter_sdk
